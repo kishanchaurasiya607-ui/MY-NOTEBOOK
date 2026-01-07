@@ -90,7 +90,7 @@ const Footer = () => {
                                 </svg>
                             </a>
                             <a
-                                href="https://www.instagram.com/sanjay_singh.15/"
+                                href="https://www.instagram.com/mr.kishan_official_u.p?igsh=MXNqc2RjbWIza2RzeA=="
                                 target="_blank"
                                 title="Instagram"
                                 className="flex items-center p-1"
